@@ -85,7 +85,7 @@ Top recommendations include *A Bug's Life*, *Toy Story 2*, and *Antz*, all anima
 
 ## Screenshots
 
-![CineMatch app](screenshots/app.png)
+![CineMatch app](screenshots/app.png.png)
 
 ## Limitations and Future Work
 
